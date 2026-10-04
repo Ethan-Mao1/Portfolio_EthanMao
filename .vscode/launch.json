@@ -8,10 +8,10 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ethan/OneDrive/Documents/GitHub/Portfolio_EthanMao/Software Projects/Simon Says",
-      "program": "c:/Users/ethan/OneDrive/Documents/GitHub/Portfolio_EthanMao/Software Projects/Simon Says/build/Debug/outDebug",
+      "cwd": "c:/Users/ethan/OneDrive/Documents/GitHub/Portfolio_EthanMao/Software_Projects/SimonSays",
+      "program": "c:/Users/ethan/OneDrive/Documents/GitHub/Portfolio_EthanMao/Software_Projects/SimonSays/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:/raylib/w64devkit/bin/gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
